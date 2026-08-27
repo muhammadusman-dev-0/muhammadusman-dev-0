@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Muhammad Usman 👋
 
-<!--
-**muhammadusman-dev-0/muhammadusman-dev-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a developer focused on building clean, practical, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- Python
+- Git & GitHub
+- REST APIs
+
+### 🚀 Projects
+
+- **Lumora** — Full-stack web application built with HTML, CSS, JavaScript, Node.js and Express.js.
+- **TaskFlow** — Task management application built with JavaScript, Node.js and Express.js.
+- **Usman Portfolio** — Personal developer portfolio website.
+
+### 📚 Currently Learning
+
+- Backend Development
+- APIs & REST
+- Database & SQL
+- Git & GitHub
+- Full-Stack Web Development
+
+### 🎯 Goal
+
+To grow as a professional Full-Stack Developer by building real-world applications and continuously improving my development skills.
+
+### 📫 Connect With Me
+
+- 🌐 Portfolio: https://muhammadusman-dev-0.github.io/usman-portfolio/
+- 💻 GitHub: https://github.com/muhammadusman-dev-0
+
