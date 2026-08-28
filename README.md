@@ -6,8 +6,8 @@ I build practical, responsive and user-friendly web applications using modern we
 
 ### 🛠️ Technologies
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Node.js
 - Express.js
