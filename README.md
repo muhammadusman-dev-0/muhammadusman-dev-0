@@ -19,7 +19,7 @@ I build practical, responsive and user-friendly web applications using modern we
 
 - **LUMORA** — E-commerce web application built with HTML, CSS, JavaScript, Node.js and Express.
 - **TaskFlow** — Task management application with frontend-backend integration.
-- **Usman Portfolio** — Personal developer portfolio website.
+- **Usman Portfolio** — Personaal developer portfolio website.
 
 ### 🔗 Connect
 
