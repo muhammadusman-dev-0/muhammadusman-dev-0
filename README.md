@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Usman 👋
 
-### Junior Full-Stack Developer
+# Full-Stack Developer
 
 I'm a developer focused on building clean, practical, and user-friendly web applications.
 
