@@ -9,8 +9,8 @@ I build practical, responsive and user-friendly web applications with a focus on
 ## 🛠️ Technologies & Tools
 
 **Frontend**
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 **Backend**
